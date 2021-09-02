@@ -60,3 +60,7 @@ p {
   font-family: "Pacifico", cursive;
   font-size: 18px;
 }
+img {
+  width: 150px;
+  height: 150px;
+}
