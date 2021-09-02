@@ -53,7 +53,10 @@ div {
 }
 h1 {
   background: none;
+  font-family: "Pacifico", cursive;
 }
 p {
   background: none;
+  font-family: "Pacifico", cursive;
+  font-size: 18px;
 }
